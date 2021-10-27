@@ -1,0 +1,4 @@
+api_post_show:
+    path:       /test
+    controller: App\Controller\TestController:ret
+    methods:    POST
